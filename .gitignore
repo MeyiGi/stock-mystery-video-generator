@@ -1,0 +1,38 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Media files
+videos/
+*.mp4
+
+# Backup files
+*.bak
+
+# Python build / tools
+.pytest_cache/
+.mypy_cache/
+
+# UV / Poetry / tooling
+uv.lock
