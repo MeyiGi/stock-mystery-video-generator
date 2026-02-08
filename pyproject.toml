@@ -5,9 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "auto-py-to-exe>=2.48.1",
     "customtkinter>=5.2.2",
     "matplotlib>=3.10.8",
     "pandas>=3.0.0",
+    "pyinstaller>=6.18.0",
     "scipy>=1.17.0",
     "yfinance>=1.1.0",
 ]

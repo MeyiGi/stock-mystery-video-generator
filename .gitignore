@@ -36,3 +36,8 @@ videos/
 
 # UV / Poetry / tooling
 uv.lock
+
+
+dist/
+build/
+main.spec
